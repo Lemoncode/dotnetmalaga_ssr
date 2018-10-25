@@ -1,0 +1,18 @@
+{
+  "name": "02_Scratch",
+  "version": "1.0.0",
+  "description": "Demo:\r   - Create a _Hello Nextjs_ from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
