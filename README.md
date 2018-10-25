@@ -1,6 +1,6 @@
-# Dotnetmalaga Server Side Rendering Demo Material
+# Dotnet Malaga Server Side Rendering Demo Material
 
-Demos from the Dotnet Malaga talk "React Server Side Rendering".
+Demos from the Dotnet Malaga 2018 talk "React Server Side Rendering".
 
 If you are looking for a set of guided samples to get started please visit: https://github.com/Lemoncode/nextjs-typescript-by-sample
 
