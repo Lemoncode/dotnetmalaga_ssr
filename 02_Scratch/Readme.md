@@ -1,4 +1,4 @@
-# SSR
+# 02 Scratch
 
 Demo:
   - Create a _Hello Nextjs_ from scratch.
