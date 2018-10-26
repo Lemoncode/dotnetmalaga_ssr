@@ -1,4 +1,4 @@
-# Demo
+# 03 Typescript
 
 Review how typescript support is added.
 
