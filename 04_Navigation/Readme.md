@@ -1,4 +1,4 @@
-# Demo
+# 04 Navigation
 
 Add a new page and navigate from page A to page B.
 
